@@ -47,7 +47,5 @@
 ---
 
 ![Christopher's GitHub stats](https://github-readme-stats.vercel.app/api?username=christopherluey&show_icons=true&theme=tokyonight&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christopherluey&layout=compact&theme=tokyonight)
 
-<!-- GitHub snake animation -->
-![Snake animation](https://github.com/christopherluey/christopherluey/blob/output/github-contribution-grid-snake.svg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christopherluey&layout=compact&theme=tokyonight)
