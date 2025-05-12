@@ -21,13 +21,13 @@
 ---
 
 ### 📌 Selected Projects
-- 🛰️ **Ion Thruster Simulations** *(Astranis)*: Embedded C++ GNC stack for in-space propulsion.
+- 🛰️ **Ion Thruster Simulations** *(Astranis)*: Embedded C++ stack for in-space propulsion.
 - 🧠 **CVAE for Gait Learning** *(Northwestern)*: Learned dynamics in MuJoCo using variational autoencoders.
 - 🤖 **Pick-and-Place Arm**: Feedforward robot controller with visual servoing.
 
 ---
 
-### 📚 Publications & Recognition
+### 📚 Recognition
 - 🏅 **NSF Graduate Research Fellowship** *(Top 40 Mechanical Engineers in U.S.)*
 - 🎤 **Conference Presenter** at MWRW and IDETC
 - 📖 **Author** of *[666 Creative Excuses for Being Late](https://www.amazon.com/dp/B0DMPDSR4P?newOGT=1)*
@@ -35,8 +35,8 @@
 ---
 
 ### 🎯 Goals
-- Use AI and robotics to accelerate sustainable infrastructure.
-- Build real-world systems that improve life and clean the planet.
+- Use AI and robotics to accelerate infrastructure.
+- Build real-world systems that improve life.
 
 ---
 
