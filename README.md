@@ -15,7 +15,7 @@
 ---
 
 ### 🧠 Current Work
-- 🛠️ **Elytra Robotics (Co-Founder & CTO):** Autonomous trash-collecting robots. $20K+ raised. Deploying in SF.
+- 🛠️ **Elytra Robotics (Co-Founder & CTO):** Autonomous robots. $20K+ raised. Deploying in SF.
 - 🌌 **NASA / Stanford / Tesla / Astranis:** Robotics, computer vision, ion propulsion, and embedded systems at scale.
 
 ---
