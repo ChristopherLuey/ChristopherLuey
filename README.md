@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Christopher Luey</h1>
+<h1 align="center">Christopher Luey</h1>
 <!-- <p align="center">
   🚀 Engineer • 🤖 Roboticist • 🎓 NSF Fellow  
 </p> -->
