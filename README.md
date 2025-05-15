@@ -34,18 +34,6 @@
 
 ---
 
-### 🎯 Goals
-- Use AI and robotics to accelerate infrastructure.
-- Build real-world systems that improve life.
-
----
-
-### 💬 Let’s Connect
-- ✉️ christopher.luey@u.northwestern.edu  
-- 🧠 Fun Fact: I love late-night prototyping and once built a burrito-making robot.
-
----
-
 ![Christopher's GitHub stats](https://github-readme-stats.vercel.app/api?username=christopherluey&show_icons=true&theme=tokyonight&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christopherluey&layout=compact&theme=tokyonight)
